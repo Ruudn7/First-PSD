@@ -10,15 +10,28 @@ body {
     margin-top: 15px;
 } */
 
+.test {
+    background-color: blue;
+    height:700px;
+}
+
 .main-background {
    background-color: white;
-   margin: 20px 20px 0px 20px;
+   margin: 20px 45px 0px 45px;
    padding: 15px;
    height: 420px;
 }
 
+.background-mianpart{
+     background-color: white;
+   margin: 0px 55px 0px 55px;
+   padding: 15px;
+   border-top: 1px solid black; 
+}
 
-
+.classstart{
+    padding:0;
+}
 .logo {
     margin-top: 50px;
 }
