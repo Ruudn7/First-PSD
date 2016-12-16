@@ -23,7 +23,10 @@ body {
     margin-top: 50px;
 }
 
-
+.logosize{
+    width: 90px;
+    height: 90px;
+}
 
 .letterSpace {
     letter-spacing: 3pt;
