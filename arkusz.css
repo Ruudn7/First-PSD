@@ -57,14 +57,14 @@ body {
 }
 
 .background-mianpart{
-     background-color: white;
+   background-color: white;
    margin: 0px 45px 0px 45px;
    border-top: 1px solid black; 
 }
 
 .classstart{
     padding:0;
-    height: 482px;
+
 }
 .logo {
     margin-top: 50px;
@@ -76,6 +76,10 @@ body {
    
 }
 
+.socialfoot {
+     background-color:grey;
+     height: 150px;
+}
 
 .logosize{
     width: 90px;
