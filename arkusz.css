@@ -12,7 +12,7 @@ body {
 
 .test {
     background-color: blue;
-    height:700px;
+    height:482px;
 }
 
 
@@ -20,14 +20,33 @@ body {
     background-color: yellow;
     height:700px;
     float: left;
+    height: 482px;
 }
 
 .test3 {
     background-color: black;
+    height:482px;
+}
+
+.test4 {
+    background-color: darkred;
     height:700px;
+    float: left;
+    height: 482px;
 }
 
 
+.test5 {
+    background-color: orange;
+    height:482px;
+}
+
+.test6 {
+    background-color: lawngreen;
+    height:700px;
+    float: left;
+    height: 482px;
+}
 
 
 .main-background {
@@ -45,6 +64,7 @@ body {
 
 .classstart{
     padding:0;
+    height: 482px;
 }
 .logo {
     margin-top: 50px;
