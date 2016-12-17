@@ -52,7 +52,7 @@ body {
 .main-background {
    background-color: white;
    margin: 20px 45px 0px 45px;
-   padding: 15px;
+   padding: 0px;
    height: 420px;
 }
 
@@ -77,8 +77,21 @@ body {
 }
 
 .socialfoot {
-     background-color:grey;
-     height: 150px;
+    
+     height: 192px;
+     padding: 0;
+}
+
+.grey{
+     background-color:#343434;
+     height: 192px;
+   
+}
+
+.white{
+     background-color:white;
+     height: 192px;
+   
 }
 
 .logosize{
