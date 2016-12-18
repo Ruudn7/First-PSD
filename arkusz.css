@@ -66,8 +66,18 @@ body {
     padding:0;
 
 }
+
+.soialList{
+    float: left;
+}
+
+
 .logo {
     margin-top: 50px;
+}
+
+.socialPosition{
+    margin-top: 76px;
 }
 
 .logo1 {
@@ -95,8 +105,8 @@ body {
 }
 
 .logosize{
-    width: 90px;
-    height: 90px;
+    width: 40px;
+    height: 40px;
 }
 
 #size1{
