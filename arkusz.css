@@ -52,6 +52,7 @@ filter:grayscale(0);
     height:700px;
     float: left;
     height: 482px;
+    text-align: center;
 }
 
 .test3 {
@@ -82,7 +83,7 @@ filter:grayscale(0);
 
 .main-background {
    background-color: white;
-   margin: 20px 45px 0px 45px;
+   margin: 20px 45px 0px 60px;
    padding: 0px;
    height: 420px;
 }
@@ -90,7 +91,9 @@ filter:grayscale(0);
 .background-mianpart{
    background-color: white;
    margin: 0px 45px 0px 45px;
-   border-top: 1px solid black; 
+
+   padding-top: 0px;
+   padding-bottom: 0px
 }
 
 .classstart{
