@@ -3,6 +3,13 @@ body {
     background: #ededed;
    
     }
+
+.margin {
+    padding:0;
+    margin: 0;
+}
+
+
 /*.col-md-12 {
     background-color: white;
     margin-left: 10px;
@@ -17,16 +24,29 @@ body {
     filter: grayscale(100%);
 }
 
+.logosize1{
+    width: 90px;
+    height: 90px;
+    border: 2px solid white;
+    filter: grayscale(100%);
+}
+
+
 img:hover{
 filter:grayscale(0);
 }
 
 .test {
-    background-color: blue;
+    
     height:482px;
 }
 
-
+.foto {
+    height: 482px;
+    width: 629px;
+    padding: 0;
+    margin: 0;
+}
 .test2 {
     background-color: yellow;
     height:700px;
