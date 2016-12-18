@@ -10,6 +10,10 @@ body {
     margin-top: 15px;
 } */
 
+img :hover{
+    filter : grayscale(0%);
+}
+
 .test {
     background-color: blue;
     height:482px;
@@ -70,6 +74,7 @@ body {
 .socialList{
     float: left;
     padding: 0;
+    filter: grayscale(100%);
 }
 
 
@@ -79,6 +84,7 @@ body {
 
 .socialPosition{
     margin-top: 70px;
+    vertical-align: middle;
 }
 
 .logo1 {
@@ -108,6 +114,7 @@ body {
 .logosize{
     width: 40px;
     height: 40px;
+    border: 2px solid white;
 }
 
 #size1{
@@ -144,5 +151,5 @@ hr {
 }
 
 .center1{
-    margin-left: 100px;
+    margin-left: 130px;
 }
