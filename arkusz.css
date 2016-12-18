@@ -10,8 +10,15 @@ body {
     margin-top: 15px;
 } */
 
-img :hover{
-    filter : grayscale(0%);
+.logosize{
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    filter: grayscale(100%);
+}
+
+img:hover{
+filter:grayscale(0);
 }
 
 .test {
@@ -74,7 +81,7 @@ img :hover{
 .socialList{
     float: left;
     padding: 0;
-    filter: grayscale(100%);
+   
 }
 
 
@@ -111,11 +118,7 @@ img :hover{
    
 }
 
-.logosize{
-    width: 40px;
-    height: 40px;
-    border: 2px solid white;
-}
+
 
 #size1{
     font-size: 13px;
