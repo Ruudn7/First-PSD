@@ -53,6 +53,8 @@ filter:grayscale(0);
     float: left;
     height: 482px;
     text-align: center;
+    vertical-align: middle;
+    
 }
 
 .test3 {
@@ -125,20 +127,21 @@ filter:grayscale(0);
 
 .socialfoot {
     
-     height: 192px;
+    margin-left: 15px;
      padding: 0;
 }
 
 .grey{
      background-color:#343434;
      height: 192px;
+     width:615px;
    
 }
 
 .white{
      background-color:white;
      height: 192px;
-   
+     width: 629px;
 }
 
 
