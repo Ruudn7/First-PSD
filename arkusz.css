@@ -131,24 +131,25 @@ filter:grayscale(0);
     text-align: left;
    
 }
-
+/*
 .socialfoot {
     
     margin-left: 15px;
      padding: 0;
 }
+*/
 
 .grey{
      background-color:#343434;
      height: 192px;
-     width:615px;
+     width:50%;
    
 }
 
 .white{
      background-color:white;
      height: 192px;
-     width: 629px;
+     width: 50;
 }
 
 .text_center{
