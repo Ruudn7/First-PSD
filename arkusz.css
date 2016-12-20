@@ -84,10 +84,10 @@ filter:grayscale(0);
 
 
 .main-background {
-   background-color: white;
-   margin: 20px 45px 0px 60px;
+   margin: 20px 60px 0px 60px;
    padding: 0px;
    height: 420px;
+    background-color: white;
 }
 
 .background-mianpart{
@@ -102,6 +102,13 @@ filter:grayscale(0);
     padding:0;
 
 }
+
+.classstart1{
+   
+    padding-right:0;
+
+}
+
 
 .socialList{
     float: left;
