@@ -43,8 +43,8 @@ filter:grayscale(0);
 
 .foto {
     height: 482px;
-    width: 629px;
-    padding: 0;
+    width: 100%;
+    padding-right: 0;
     margin: 0;
 }
 .test2 {
@@ -144,7 +144,9 @@ filter:grayscale(0);
      width: 629px;
 }
 
-
+.text_center{
+    font-size: 25px;
+}
 
 #size1{
     font-size: 13px;
