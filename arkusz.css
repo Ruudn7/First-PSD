@@ -199,3 +199,23 @@ img.foto:hover {
         opacity: 0.6;
         text-decoration: none;
     }
+
+    .fb{
+        width:40%
+    }
+    .fb1{
+        text-align: right;
+    }
+    .gplus{
+        width: 10%
+    }
+    .gplus1 {
+        text-align: 10%;
+    }
+
+    .twitter{
+        width: 40%;
+    }
+    .twitter1{
+        text-align: left;
+    }
